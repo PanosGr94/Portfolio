@@ -1,123 +1,119 @@
 
-#Projects
+# Projects
 
 ## Android
 
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
-        <tr> <td colspan="2"> <h3> <u> Baking App </u> </h3> </td> </tr>
-        <tr> 
+    <tr> <td colspan="2"> <br/><h3> <u> Baking App </u> </h3> </td> </tr>
+    <tr>
         <td>
-                <img src="https://via.placeholder.com/350x150"> </td>
-        <td> 
-        
-             <br/> <i> A cooking app designed to show the recipes of a JSON file. The user can choose a sweet from the menu
-             and see the ingredients needed for baking it as well as the steps with a thorough description and a video 
-             where available.</i>
-                 
-        <h4> Skills: </h4>
-             <ul>
+            <img src="https://via.placeholder.com/350x150"> </td>
+        <td>
+            <br/> <i> A cooking app designed to show the recipes of a JSON file. The user can choose a sweet from the menu
+            and see the ingredients needed for baking it as well as the steps with a thorough description and a video
+            where available.</i>
+            <h4> Skills: </h4>
+            <ul>
                 <li> Media Playback through ExoPlayer Library </li>
                 <li> Testing through Espresson Library </li>
                 <li> Widget Function </li>
                 <li> Multi-Pane View for tablets </li>
-             </ul>
-             
-             <br/>
-             <br/>
-             *July 2018*
+            </ul>
+            <br/>
+            <br/>
+            <i>July 2018</i>
         </td>
-        </tr>
-        <tr> 
-        
-   </tbody>
+    </tr>
+
+    </tbody>
 </table>
 
 <table>
-        <tr> <td colspan="2"> <h3><u> Popular Movies App </u> </h3> </td> </tr>
-        <tr>
-        <td>  
-                <img src="https://via.placeholder.com/350x150"> </td>
-        <td> 
-        
-             <br/> <i> An app that shows the most popular movies today and the best movies of all time. It 
-              shows details like the movies' rating, description, comments and trailers. Also, users can 
-              save their favorite movies.</i>
-                 
-        <h4> Skills: </h4>
-             <ul>
+    <tr> <td colspan="2"> <br/><h3><u>Popular Movies App </u> </h3> </td> </tr>
+    <tr>
+        <td>
+            <img src="https://via.placeholder.com/350x150"> </td>
+        <td>
+
+            <br/> <i> An app that shows the most popular movies today and the best movies of all time. It
+            shows details like the movies' rating, description, comments and trailers. Also, users can
+            save their favorite movies.</i>
+
+            <h4> Skills: </h4>
+            <ul>
                 <li> JSON parsing and API calls to TMDB</li>
                 <li> Network and thread configuration through OKHttp Library </li>
                 <li> SQLite and Content Providers for favorite movies database. </li>
                 <li> Picasso Library for image manipulation. </li>
-             </ul>
-             
-             <br/>
-             <br/>
-             *April 2018*
+            </ul>
+
+            <br/>
+            <br/>
+            <i>April 2018</i>
         </td>
-        </tr>
+    </tr>
 </table>
 
 <table>
     <tbody>
-    <tr> <td colspan="2"> <h3> Charities App </h3> </td> </tr>
-            <tr>
-        <td><img src="https://via.placeholder.com/350x150"> </td><td> 
-        
-             <br/> <i> This is an app created by a team of enthusiastic Udacity learners and I 
-             used for donating to Greek and international charities. Users may donate through 
-             a message or a call and are also able to add any charities they feel are missing 
-             through the app's main menu.
-              
-              **App has been uploaded to PlayStore** </i>
-                 
+    <tr> <td colspan="2"> <br/><h3><u> Charities App </u></h3> </td> </tr>
+    <tr>
+        <td><img src="https://drive.google.com/file/d/1r05S7Nw2HcP-gPCgQurjg8gCnzBhl-K_/view"> </td><td>
+
+        <br/> <i> This is an app created by a team of enthusiastic Udacity learners and I
+        used for donating to Greek and international charities. Users may donate through
+        a message or a call and are also able to add any charities they feel are missing
+        through the app's main menu.
+
+        <b>App has been uploaded to PlayStore</b> </i>
+
         <h4> Skills: </h4>
-             <ul>
-                <li> Intents for donating options, avoiding the need for permissions. </li>
-                <li> Use of Github to organize the codebase, along with Issue-reporting.</li>
-                <li> Teamwork and communication </li>
-                <li> Use of RecyclerView and SliderMenu </li>
-             </ul>
-             
-             
-             <br/>
-             <br/>
-             *December 2017*
-        </td>
-        </tr>
-        
+        <ul>
+            <li> Intents for donating options, avoiding the need for permissions. </li>
+            <li> Use of Github to organize the codebase, along with Issue-reporting.</li>
+            <li> Teamwork and communication </li>
+            <li> Use of RecyclerView and SliderMenu </li>
+        </ul>
+
+
+        <br/>
+        <br/>
+        <i>December 2017</i>
+    </td>
+    </tr>
+
     </tbody>
 </table>
 
 
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
-        <tr> <td colspan="2"> <h3> To-Dos </h3> </td> </tr>
-        <tr> 
+    <tr> <td colspan="2"> <br/> <h3><u> To-Dos </u></h3> </td> </tr>
+    <tr>
         <td>
-                <img src="https://via.placeholder.com/350x150"> </td>
-        <td> 
-        
-             <br/> <i> A simple To-Do's app which helps users stay organized throughout their day. </i>
-                 
-        <h4> Skills: </h4>
-             <ul>
+            <img src="https://via.placeholder.com/350x150"> </td>
+        <td>
+
+            <br/> <i> A simple To-Do's app which helps users stay organized throughout their day. </i>
+
+            <h4> Skills: </h4>
+            <ul>
                 <li> Android Architecture Components for database and model </li>
                 <li> Slide to delete on RecyclerView </li>
                 <li> Floating Action Button to add a task </li>
                 <li> SQL query to order by priority</li>
-             </ul>
-             
-             
-             <br/>
-             <br/>
-             *June 2018*
+            </ul>
+
+
+            <br/>
+            <br/>
+            <i>June 2018</i>
         </td>
-        </tr>
-        
-   </tbody>
+    </tr>
+
+    </tbody>
 </table>
 
 
