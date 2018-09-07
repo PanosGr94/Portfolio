@@ -10,11 +10,4 @@ locale:       "en"
 # About/contact
 author:
   name:       Panagiotis Gkrasis
-  url:
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+  url:        https://panosgr94.github.io/Portfolio/
