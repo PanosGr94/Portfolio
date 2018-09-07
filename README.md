@@ -1,62 +1,28 @@
 <h2> Android </h2>
 
 
-<table>
+<table cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
-    <tr> <td colspan="2" ><h3>Title 1</h3> </td></tr>
-    <tr>
-        <td style="max-width:50%"> <img src="https://via.placeholder.com/350x150"> </td>
-        <td style="max-width:50%">  A cooking app designed to show the recipes
+        <tr> 
+        <td>  <h3> Title 4 </h3>
+                <img src="https://via.placeholder.com/350x150"> </td>
+        <td> 
         
-            <h6> Skills: </h6> <br/> 
-        </td> 
-     
-   </tr>
-   
-   <tr> <td><img src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
-                                                                                                    <h6> Skills: </h6> <br/> </td> 
-                                                                                                    
-   
-   <td><img src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
-                                                                                                    
-   </tr>
-   <tr>  
-   <td>
-        Title 2 is the Name 
-   </td>
-   <td>
-   <td> 
-   
-        Title 3 is the Name 
-   </td>
-   </tr>
- </tbody>
+             <br/> <i> A cooking app designed to show the recipes </i>
+                 
+        <h4> Skills: </h4>
+             <ul>
+                <li> Skill 4 </li>
+                <li> Skill 3 </li>
+                <li> Skill 1 </li>
+                <li> Skill 2 </li>
+             </ul>
+        </td>
+        </tr>
+        
+    </tbody>
 </table>
 
-
-<table>
-<tr> 
-<td style="max-width:50%">  <h3> Title 4 </h3>
-        <img src="https://via.placeholder.com/350x150"> </td>
-<td style="max-width:50%"> 
-
-     <i> A cooking app designed to show the recipes </i>
-         
-<h4> Skills: </h4>
-     <ul>
-        <li> Skill 4 </li>
-        <li> Skill 3 </li>
-        <li> Skill 1 </li>
-        <li> Skill 2 </li>
-     </ul>
-</td>
-</tr>
-
-
-</table>
-
-
- Lorem Ipsum </p>
 
 <p><h3>Title 3</h3>
 <img style="float:left" src="https://via.placeholder.com/350x150"> Lorem Ipsum </p>
