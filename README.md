@@ -36,12 +36,13 @@
 
 <table>
 <tr> 
-<td style="max-width:50%"> <img src="https://via.placeholder.com/350x150"> </td>
-<td style="max-width:50%">  <h4> Title 4 </h4>
+<td style="max-width:50%">  <h3> Title 4 </h3>
+        <img src="https://via.placeholder.com/350x150"> </td>
+<td style="max-width:50%"> 
 
      <i> A cooking app designed to show the recipes </i>
          
-<h6> Skills: </h6>
+<h4> Skills: </h4>
      <ul>
         <li> Skill 4 </li>
         <li> Skill 3 </li>
