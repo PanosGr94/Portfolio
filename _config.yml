@@ -1,1 +1,20 @@
 theme: jekyll-theme-cayman
+
+# Setup
+title:        Panagiotis Gkrasis
+tagline:      Android Developer | Athens, Greece
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Panagiotis Gkrasis
+  url:
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
