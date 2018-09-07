@@ -1,20 +1,4 @@
 theme: jekyll-theme-cayman
 
-# Setup
-title:        Panagiotis Gkrasis
-tagline:      A webpage about projects
-baseurl:      ""
-paginate:     1
-locale:       "en"
-
-# About/contact
-author:
-  name:       Panagiotis Gkrasis
-  url:        https://panosgr94.github.io/Portfolio/
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
+title: [Panagiotis Grassis]
+description: [ Android Developer]
