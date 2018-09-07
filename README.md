@@ -9,7 +9,7 @@
     <tr> <td colspan="2"> <br/><h3> <u> Baking App </u> </h3> </td> </tr>
     <tr>
         <td>
-            <img src="https://via.placeholder.com/350x150"> </td>
+            <img src="http://bit.ly/2O30uDa"><p><a href="http://bit.ly/2O30uDa ">View Image</p></a>  </td>
         <td>
             <br/> <i> A cooking app designed to show the recipes of a JSON file. The user can choose a sweet from the menu
             and see the ingredients needed for baking it as well as the steps with a thorough description and a video
@@ -33,7 +33,7 @@
     <tr> <td colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
     <tr>
         <td>
-            <img src="http://gdurl.com/pIte"> </td>
+            <img src="http://gdurl.com/pIte"><a href="http://gdurl.com/pIte"><p>View Image</p></a> </td>
         <td>
             <br/> <i> An app that shows the most popular movies today and the best movies of all time. It
             shows details like the movies' rating, description, comments and trailers. Also, users can
@@ -57,7 +57,7 @@
     <tbody>
     <tr> <td colspan="2"> <br/><h3><u> Charities App </u></h3> </td> </tr>
     <tr>
-        <td><img src="https://drive.google.com/file/d/1r05S7Nw2HcP-gPCgQurjg8gCnzBhl-K_/view"> </td>
+        <td><img src="http://bit.ly/2Ma40tI"> <a href="http://bit.ly/2Ma40tI "><p>View Image</p></a> </td>
         
         <td>
 
@@ -65,7 +65,7 @@
         used for donating to Greek and international charities. Users may donate through
         a message or a call and are also able to add any charities they feel are missing
         through the app's main menu.
-
+        <br/>
         <b>App has been uploaded to PlayStore</b> </i>
 
         <h4> Skills: </h4>
@@ -92,7 +92,7 @@
     <tr> <td colspan="2"> <br/> <h3><u> To-Dos </u></h3> </td> </tr>
     <tr>
         <td>
-            <img src="http://bit.ly/2wPVz1Q" > </td>
+            <img src="http://bit.ly/2wPVz1Q" ><a href="http://bit.ly/2wPVz1Q"><p>View Image</p></a>  </td>
         <td>
 
             <br/> <i> A simple To-Do's app which helps users stay organized throughout their day. </i>
