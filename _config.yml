@@ -2,3 +2,23 @@ theme: jekyll-theme-cayman
 
 title: [Panagiotis Grassis]
 description: [ A page about projects. ]
+
+
+# Setup
+title:        Panagiotis' Portfolio
+tagline:      A webpage 
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Panagiotis Gkrasis
+  url:        https://panosgr94.github.io/Portfolio/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
