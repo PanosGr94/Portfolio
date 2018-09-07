@@ -26,22 +26,19 @@
             <i>July 2018</i>
         </td>
     </tr>
-
     </tbody>
 </table>
 
 <table>
-    <tr> <td colspan="2"> <br/><h3><u>Popular Movies App </u> </h3> </td> </tr>
+    <tr> <td colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
     <tr>
         <td>
-            <img src="https://via.placeholder.com/350x150"> </td>
+            <img src="http://gdurl.com/pIte"> </td>
         <td>
-
             <br/> <i> An app that shows the most popular movies today and the best movies of all time. It
             shows details like the movies' rating, description, comments and trailers. Also, users can
             save their favorite movies.</i>
-
-            <h4> Skills: </h4>
+             <h4> Skills: </h4>
             <ul>
                 <li> JSON parsing and API calls to TMDB</li>
                 <li> Network and thread configuration through OKHttp Library </li>
@@ -49,7 +46,7 @@
                 <li> Picasso Library for image manipulation. </li>
             </ul>
 
-            <br/>
+           <br/>
             <br/>
             <i>April 2018</i>
         </td>
@@ -60,7 +57,9 @@
     <tbody>
     <tr> <td colspan="2"> <br/><h3><u> Charities App </u></h3> </td> </tr>
     <tr>
-        <td><img src="https://drive.google.com/file/d/1r05S7Nw2HcP-gPCgQurjg8gCnzBhl-K_/view"> </td><td>
+        <td><img src="https://drive.google.com/file/d/1r05S7Nw2HcP-gPCgQurjg8gCnzBhl-K_/view"> </td>
+        
+        <td>
 
         <br/> <i> This is an app created by a team of enthusiastic Udacity learners and I
         used for donating to Greek and international charities. Users may donate through
@@ -93,7 +92,7 @@
     <tr> <td colspan="2"> <br/> <h3><u> To-Dos </u></h3> </td> </tr>
     <tr>
         <td>
-            <img src="https://via.placeholder.com/350x150"> </td>
+            <img src="http://bit.ly/2wPVz1Q" > </td>
         <td>
 
             <br/> <i> A simple To-Do's app which helps users stay organized throughout their day. </i>
