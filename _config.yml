@@ -1,12 +1,9 @@
 theme: jekyll-theme-cayman
 
-title: [Panagiotis Grassis]
-description: [ A page about projects. ]
-
-
 # Setup
-title:        Panagiotis' Portfolio
-tagline:      A webpage 
+title: [Panagiotis Grassis]
+description: [ Android Developer | Athens, Greece ]
+tagline:      A webpage about projects
 baseurl:      ""
 paginate:     1
 locale:       "en"
