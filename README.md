@@ -5,19 +5,30 @@
     <tbody>
     <tr> <td colspan="2" ><h3>Title 1</h3> </td></tr>
     <tr>
-        <td style="max-width:50%"> <img style="float:left" src="https://via.placeholder.com/350x150"> </td>
+        <td style="max-width:50%"> <img src="https://via.placeholder.com/350x150"> </td>
         <td style="max-width:50%">  A cooking app designed to show the recipes
         
             <h6> Skills: </h6> <br/> 
         </td> 
      
    </tr>
-   <tr> <td><img style="float:left" src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
-                                                                                                    <h6> Skills: </h6> <br/> </td> </tr>
-   <tr> > 
    
+   <tr> <td><img src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
+                                                                                                    <h6> Skills: </h6> <br/> </td> 
+                                                                                                    
+   
+   <td><img src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
+                                                                                                    
+   </tr>
+   <tr>  
+   <td>
         Title 2 is the Name 
-    
+   </td>
+   <td>
+   <td> 
+   
+        Title 3 is the Name 
+   </td>
    </tr>
  </tbody>
 </table>
