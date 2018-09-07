@@ -1,10 +1,7 @@
 theme: jekyll-theme-cayman
 
-
-title: [Panagiotis Grassis]
-description: [ Android Developer  ]
-
 # Setup
+title:        Panagiotis Gkrasis
 tagline:      A webpage about projects
 baseurl:      ""
 paginate:     1
