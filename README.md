@@ -4,7 +4,39 @@
 <table cellspacing="0" cellpadding="0" style="border: none;">
     <tbody>
         <tr> 
-        <td>  <h3> Title 4 </h3>
+        <td>  <h3> Baking App </h3>
+                <img src="https://via.placeholder.com/350x150"> </td>
+        <td> 
+        
+             <br/> <i> A cooking app designed to show the recipes </i>
+                 
+        <h4> Skills: </h4>
+             <ul>
+                <li> Skill 4 </li>
+                <li> Skill 3 </li>
+                <li> Skill 1 </li>
+                <li> Skill 2 </li>
+             </ul>
+        </td>
+        </tr>
+        <tr> 
+        <td>  <h3> Movies App </h3>
+                <img src="https://via.placeholder.com/350x150"> </td>
+        <td> 
+        
+             <br/> <i> A cooking app designed to show the recipes </i>
+                 
+        <h4> Skills: </h4>
+             <ul>
+                <li> Skill 4 </li>
+                <li> Skill 3 </li>
+                <li> Skill 1 </li>
+                <li> Skill 2 </li>
+             </ul>
+        </td>
+        </tr>
+        <tr> 
+        <td>  <h3> Charities App </h3>
                 <img src="https://via.placeholder.com/350x150"> </td>
         <td> 
         
@@ -22,19 +54,6 @@
         
     </tbody>
 </table>
-
-
-<p><h3>Title 3</h3>
-<img style="float:left" src="https://via.placeholder.com/350x150"> Lorem Ipsum </p>
-
-<p><h3>Title 4</h3>
-<img style="float:left" src="https://via.placeholder.com/350x150"> Lorem Ipsum </p>
-
-
-
-
-
-
 
 
 
