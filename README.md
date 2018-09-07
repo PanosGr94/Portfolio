@@ -1,6 +1,25 @@
 <h2 class="mTitle"> Android </h2>
 
 
+<h3>Title 1</h3><p> 
+<img style="float:left" src="https://via.placeholder.com/350x150">
+Lorem Ipsum </p>
+
+<h3>Title 2</h3><p> 
+<img style="float:left" src="https://via.placeholder.com/350x150">
+Lorem Ipsum </p>
+
+<h3>Title 3</h3>
+<p>
+<img style="float:left" src="https://via.placeholder.com/350x150">
+Lorem Ipsum 
+</p>
+
+<h3>Title 4</h3><p>
+<img style="float:left" src="https://via.placeholder.com/350x150">
+ Lorem Ipsum </p>
+
+
 
 
 
