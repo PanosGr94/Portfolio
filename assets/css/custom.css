@@ -4,13 +4,13 @@
 @import 'jekyll-theme-cayman';
 
 .mTitle{
-  color:violet;
+    color:violet;
 }
 
 h2{
-  color:cornflowerblue;
+    color:purple;
 }
 
 h3{
-  color:yellow;
+    color:lightseagreen;
 }
