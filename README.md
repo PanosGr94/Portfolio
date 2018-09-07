@@ -5,10 +5,21 @@
     <tbody>
     <tr> <td colspan="2" ><h3>Title 1</h3> </td></tr>
     <tr>
-        <td> <img style="float:left" src="https://via.placeholder.com/350x150"> </td>
-        <td> <p>Lorem Ipsum </p> </td>
-    </tr>
-    </tbody>
+        <td style="max-width:50%"> <img style="float:left" src="https://via.placeholder.com/350x150"> </td>
+        <td style="max-width:50%">  A cooking app designed to show the recipes
+        
+            <h6> Skills: </h6> <br/> 
+        </td> 
+     
+   </tr>
+   <tr> <td><img style="float:left" src="https://via.placeholder.com/350x150"></td> <td> A cooking app designed to show the recipes
+                                                                                                    <h6> Skills: </h6> <br/> </td> </tr>
+   <tr> > 
+   
+        Title 2 is the Name 
+    
+   </tr>
+ </tbody>
 </table>
 
 
@@ -17,7 +28,7 @@
 <td style="max-width:50%"> <img src="https://via.placeholder.com/350x150"> </td>
 <td style="max-width:50%"> 
 
-     A cooking app designed to show the recipes
+     > A cooking app designed to show the recipes
          
 <h6> Skills: </h6>
           <br/>
@@ -27,8 +38,8 @@
 
 </table>
 
-<p><h3>Title 2</h3>
-<img style="float:left" src="https://via.placeholder.com/350x150"> Lorem Ipsum </p>
+
+ Lorem Ipsum </p>
 
 <p><h3>Title 3</h3>
 <img style="float:left" src="https://via.placeholder.com/350x150"> Lorem Ipsum </p>
