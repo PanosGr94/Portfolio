@@ -1,8 +1,10 @@
 theme: jekyll-theme-cayman
 
-# Setup
+
 title: [Panagiotis Grassis]
-description: [ Android Developer | Athens, Greece ]
+description: [ Android Developer  ]
+
+# Setup
 tagline:      A webpage about projects
 baseurl:      ""
 paginate:     1
