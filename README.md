@@ -29,7 +29,7 @@
     </tbody>
 </table>
 
-<br/>
+<br>
 <table>
     <tr> <td colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
     <tr>
@@ -53,7 +53,7 @@
     </tr>
 </table>
 
-<br/>
+<br>
 <table>
     <tr> <td colspan="2"><h3><u> Charities App </u></h3> </td> </tr>
     <tr>
@@ -72,14 +72,14 @@
             <li> Teamwork and communication </li>
             <li> Use of RecyclerView and SliderMenu </li>
         </ul>
-<br/>
-        <br/>
+<br>
+        <br>
         <i>December 2017</i>
     </td>
     </tr>
 </table>
 
-<br/>
+<br>
 <table cellspacing="0" cellpadding="0" style="border: none;width:100%;">
     <tr> <td colspan="2">  <h3><u> To-Dos </u></h3> </td> </tr>
     <tr>
@@ -101,6 +101,7 @@
         </td>
     </tr>
 </table>
+
 
 
 ## Web Development
