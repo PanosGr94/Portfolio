@@ -6,7 +6,7 @@
 
 <table>
     <tbody>
-    <tr> <th colspan="2"> <h3> <u> Baking App </u> </h3> </th> </tr>
+    <tr> <td height="100px" colspan="2"> <h3> <u> Baking App </u> </h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/cRyJkU"><img width="88%" src="https://preview.ibb.co/jbLW5U/Screenshot_11_2018_07_18_55.png" alt="Screenshot_11_2018_07_18_55" border="0"></a></p>  </td>
@@ -34,7 +34,7 @@
 
 <br>
 <table>
-    <tr> <th colspan="2"> <h3><u>Popular Movies App </u> </h3> </th> </tr>
+    <tr> <td height="100px" colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/gsVsC9"><img width="88%" src="https://preview.ibb.co/eCBM5U/Screenshot_2018_09_07_18_51_19.png" alt="Screenshot_2018_09_07_18_51_19" border="0"></a></p>
@@ -62,7 +62,7 @@
 
 <br>
 <table>
-    <tr> <td colspan="2"><h3> <u> Charities App </u></h3> </td> </tr>
+    <tr> <td height="100px" colspan="2"><h3> <u> Charities App </u></h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/n52iKp"><img width="88%" src="https://preview.ibb.co/mKjxep/Screenshot_2018_09_07_18_47_13_1.png" alt="Screenshot_2018_09_07_18_47_13_1" border="0"></a></p> 
@@ -92,7 +92,7 @@
 
 <br>
 <table cellspacing="0" style="border: none;">
-    <tr> <td colspan="2">  <h3><u> To-Dos List App </u></h3> </td> </tr>
+    <tr> <td height="100px" colspan="2">  <h3><u> To-Dos List App </u></h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/dZgAzp"><img width="88%" src="https://preview.ibb.co/e4Y15U/Screenshot_2018_09_07_18_58_51.png" alt="Screenshot_2018_09_07_18_58_51" border="0"></a></p>
