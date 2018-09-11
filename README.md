@@ -4,13 +4,13 @@
 ## Android
 
 
-<table cellspacing="0" cellpadding="0" style="border:none;">
+<table>
     <tbody>
-    <tr> <td colspan="2"> <h3> <br/><u> Baking App </u><br/> </h3> </td> </tr>
+    <tr> <td colspan="2"> <h3> <u> Baking App </u> </h3> </td> </tr>
     <tr>
-        <td>
-            <a href="https://ibb.co/cRyJkU"><img src="https://preview.ibb.co/jbLW5U/Screenshot_11_2018_07_18_55.png" alt="Screenshot_11_2018_07_18_55" border="0"></a>  </td>
-        <td bgcolor="#000000">
+        <td width="35%" bgcolor="#f6f8fa">
+            <p align="center"><a href="https://ibb.co/cRyJkU"><img width="88%" src="https://preview.ibb.co/jbLW5U/Screenshot_11_2018_07_18_55.png" alt="Screenshot_11_2018_07_18_55" border="0"></a></p>  </td>
+        <td bgcolor="#f6f8fa">
             <br/> <i> A cooking app designed to show the recipes of a JSON file. The user can choose a sweet from the menu
             and see the ingredients needed for baking it as well as the steps with a thorough description and a video
             where available.</i>
@@ -36,10 +36,10 @@
 <table>
     <tr> <td colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
     <tr>
-        <td>
-            <a href="https://ibb.co/gsVsC9"><img src="https://preview.ibb.co/eCBM5U/Screenshot_2018_09_07_18_51_19.png" alt="Screenshot_2018_09_07_18_51_19" border="0"></a>
+        <td width="35%" bgcolor="#f6f8fa">
+            <p align="center"><a href="https://ibb.co/gsVsC9"><img width="88%" src="https://preview.ibb.co/eCBM5U/Screenshot_2018_09_07_18_51_19.png" alt="Screenshot_2018_09_07_18_51_19" border="0"></a></p>
         </td>
-        <td>
+        <td bgcolor="#f6f8fa">
             <br/> <i> An app that shows the most popular movies today and the best movies of all time. It shows
             details like the movies' rating, description, comments and trailers. Also, users can save their
             favorite movies.</i>
@@ -64,10 +64,10 @@
 <table>
     <tr> <td colspan="2"><h3> <br/><u> Charities App </u><br/></h3> </td> </tr>
     <tr>
-        <td>
-            <a href="https://ibb.co/n52iKp"><img src="https://preview.ibb.co/mKjxep/Screenshot_2018_09_07_18_47_13_1.png" alt="Screenshot_2018_09_07_18_47_13_1" border="0"></a> 
+        <td width="35%" bgcolor="#f6f8fa">
+            <p align="center"><a href="https://ibb.co/n52iKp"><img width="88%" src="https://preview.ibb.co/mKjxep/Screenshot_2018_09_07_18_47_13_1.png" alt="Screenshot_2018_09_07_18_47_13_1" border="0"></a></p> 
         </td>
-        <td>
+        <td bgcolor="#f6f8fa">
         <br/> <i> This is an app created by a team of enthusiastic Udacity learners and I 
             used for donating to Greek and international charities. Users may donate through a message or a call and
         are also able to add any charities they feel are missing through the app's main menu.
@@ -91,13 +91,13 @@
 </table>
 
 <br>
-<table cellspacing="0" cellpadding="0" style="border: none;">
+<table cellspacing="0" style="border: none;">
     <tr> <td colspan="2">  <h3><u> To-Dos List App </u></h3> </td> </tr>
     <tr>
-        <td>
-            <a href="https://ibb.co/dZgAzp"><img src="https://preview.ibb.co/e4Y15U/Screenshot_2018_09_07_18_58_51.png" alt="Screenshot_2018_09_07_18_58_51" border="0"></a>
+        <td width="35%" bgcolor="#f6f8fa">
+            <p align="center"><a href="https://ibb.co/dZgAzp"><img width="88%" src="https://preview.ibb.co/e4Y15U/Screenshot_2018_09_07_18_58_51.png" alt="Screenshot_2018_09_07_18_58_51" border="0"></a></p>
         </td>
-        <td>
+        <td bgcolor="#f6f8fa">
  <br/> <i> A simple To-Do's app which helps users stay organized throughout their day. It has the 
             option to allow users to choose the priority of their task as "low", "medium" or "high"
             and shows the list in the descending order.</i>
