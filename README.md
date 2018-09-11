@@ -6,11 +6,11 @@
 
 <table cellspacing="0" cellpadding="0" style="border:none;">
     <tbody>
-    <tr> <td colspan="2"> <h3> <u> Baking App </u> </h3> </td> </tr>
+    <tr> <td colspan="2"> <h3> <br/><u> Baking App </u><br/> </h3> </td> </tr>
     <tr>
         <td>
             <a href="https://ibb.co/cRyJkU"><img src="https://preview.ibb.co/jbLW5U/Screenshot_11_2018_07_18_55.png" alt="Screenshot_11_2018_07_18_55" border="0"></a>  </td>
-        <td>
+        <td bgcolor="#000000">
             <br/> <i> A cooking app designed to show the recipes of a JSON file. The user can choose a sweet from the menu
             and see the ingredients needed for baking it as well as the steps with a thorough description and a video
             where available.</i>
@@ -62,7 +62,7 @@
 
 <br>
 <table>
-    <tr> <td colspan="2"><h3><u> Charities App </u></h3> </td> </tr>
+    <tr> <td colspan="2"><h3> <br/><u> Charities App </u><br/></h3> </td> </tr>
     <tr>
         <td>
             <a href="https://ibb.co/n52iKp"><img src="https://preview.ibb.co/mKjxep/Screenshot_2018_09_07_18_47_13_1.png" alt="Screenshot_2018_09_07_18_47_13_1" border="0"></a> 
@@ -122,7 +122,7 @@
 ## Web Development
 
 
-##### ESNUnipi Website ( 2017/2018 )
+### ESNUnipi Website ( 2017/2018 )
 
 Working the IT section of a team of dedicated students, I uploaded and managed the events, group members, front-page news as well 
 as the application forms to inform and help students coming to Greece through the Erasmus+ program stay up-to-date.
@@ -134,7 +134,7 @@ ESN theme on the **Drupal CMS** which I used for editing. Some models were tweak
 <p><a href="https://unipi.esngreece.gr/"> https://unipi.esngreece.gr/ </a></p>
 <br/>
 
-##### CossyLab Design Rehaul ( 2017 )
+### CossyLab Design Rehaul ( 2017 )
 
 For 4 months I was asked by a university professor to work on remodeling the UI aspects of a website 
 used for one of my his labs. It consisted of using the **Drupal CMS** to recreate an [old model](http://tum.ds.unipi.gr/) 
@@ -155,7 +155,7 @@ the new website for feedback twice following advice from my professor.
 <p><a href="http://cosy.ds.unipi.gr/other/tum/index.php/">http://cosy.ds.unipi.gr/other/tum/index.php/</a></p>
 <br/>
 
-##### TedxUniversityofPiraeus Website ( 2016/2017 )
+### TedxUniversityofPiraeus Website ( 2016/2017 )
 
 Working in a team of 5 with 3 Web Developers and 2 Web Designers , I participated in the development of the website 
 for the University of Piraeus Tedx event page using **Wordpress CMS** and 
@@ -168,5 +168,5 @@ maps and social media as well as a lot of custom css code for specific detail li
 <p><a href="http://2017.tedxuniversityofpiraeus.com/"> http://2017.tedxuniversityofpiraeus.com/ </a> </p>
 <br/>
 <br/>
-<h6 align="center"> More projects coming soon... </h6>
+<h4 align="center"> More projects coming soon... </h4>
 
