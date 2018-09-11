@@ -34,7 +34,7 @@
 
 <br>
 <table>
-    <tr> <td height="550px" colspan="2"> <h3 style="margin-bottom: 0px;">Popular Movies App </h3> </td> </tr>
+    <tr> <td height="50px" colspan="2"> <h3 style="margin-bottom: 0px;">Popular Movies App </h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/gsVsC9"><img width="88%" src="https://preview.ibb.co/eCBM5U/Screenshot_2018_09_07_18_51_19.png" alt="Screenshot_2018_09_07_18_51_19" border="0"></a></p>
