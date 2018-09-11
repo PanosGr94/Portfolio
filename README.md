@@ -6,7 +6,8 @@
 
 <table>
     <tbody>
-    <tr> <td height="100px" colspan="2"> <h3> <u> Baking App </u> </h3> </td> </tr>
+    <tr> <td height="100px" colspan="2"> <h3 style="
+    margin-bottom: 0px;" > Baking App </h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/cRyJkU"><img width="88%" src="https://preview.ibb.co/jbLW5U/Screenshot_11_2018_07_18_55.png" alt="Screenshot_11_2018_07_18_55" border="0"></a></p>  </td>
@@ -34,7 +35,8 @@
 
 <br>
 <table>
-    <tr> <td height="100px" colspan="2"> <h3><u>Popular Movies App </u> </h3> </td> </tr>
+    <tr> <td height="100px" colspan="2"> <p style="
+    margin-bottom: 0px;">Popular Movies App </p> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/gsVsC9"><img width="88%" src="https://preview.ibb.co/eCBM5U/Screenshot_2018_09_07_18_51_19.png" alt="Screenshot_2018_09_07_18_51_19" border="0"></a></p>
