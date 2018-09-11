@@ -64,7 +64,7 @@
 
 <br>
 <table>
-    <tr> <td height="100px" colspan="2"><h3> <u> Charities App </u></h3> </td> </tr>
+    <tr> <td bgcolor="fffafa" height="100px" colspan="2"><h3> Charities App </h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/n52iKp"><img width="88%" src="https://preview.ibb.co/mKjxep/Screenshot_2018_09_07_18_47_13_1.png" alt="Screenshot_2018_09_07_18_47_13_1" border="0"></a></p> 
@@ -94,7 +94,7 @@
 
 <br>
 <table cellspacing="0" style="border: none;">
-    <tr> <td height="100px" colspan="2">  <h3><u> To-Dos List App </u></h3> </td> </tr>
+    <tr> <td height="100px" colspan="2">  <h3>To-Dos List App</h3> </td> </tr>
     <tr>
         <td width="35%" bgcolor="#f6f8fa">
             <p align="center"><a href="https://ibb.co/dZgAzp"><img width="88%" src="https://preview.ibb.co/e4Y15U/Screenshot_2018_09_07_18_58_51.png" alt="Screenshot_2018_09_07_18_58_51" border="0"></a></p>
